@@ -6,5 +6,7 @@ package Model.Landa;
  *
  */
 public class Quimica {
-
+	public void calcular() {
+		
+	}
 }
