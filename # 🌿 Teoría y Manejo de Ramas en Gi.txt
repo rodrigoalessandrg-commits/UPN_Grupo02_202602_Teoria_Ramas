@@ -1,9 +1,0 @@
-# 🌿 Teoría y Manejo de Ramas en Git (LPI_Manejogit)
-
-¡Bienvenido a la guía práctica y teórica sobre el flujo de trabajo con ramas en Git! Este repositorio está diseñado para comprender la estructura de bifurcación, aislamiento de código y fusión de cambios en Git.
-
----
-
-## 📌 ¿Qué es una Rama (Branch) en Git?
-
-Una **rama** en Git es simplemente un puntero móvil que apunta a una de las confirmaciones (*commits*) del historial. Permite desarrollar funcionalidades, corregir errores o experimentar en un entorno aislado sin afectar la línea principal de desarrollo (`master` o `main`).
