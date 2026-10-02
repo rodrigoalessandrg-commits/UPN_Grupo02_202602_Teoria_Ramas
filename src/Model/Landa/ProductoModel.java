@@ -6,5 +6,8 @@ package Model.Landa;
  *
  */
 public class ProductoModel {
-
+	
+	public void calcular() {
+		
+	}
 }
